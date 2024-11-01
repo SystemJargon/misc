@@ -1,0 +1,7 @@
+# extra simple aliases
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+alias lar='ls -laR"
+alias ip='ip -color=auto'
+alias tshark='tshark --color'
