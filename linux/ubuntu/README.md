@@ -7,6 +7,7 @@ Links to files in this repo
 * [autoinstall.yaml](autoinstall.yaml)
 * [initial_install.sh](initial_install.sh)
 * [nftables.rules](nftables.rules)
+* [network.md](network.md)
 * [preseed.txt](preseed.txt)
 * [reference1.md](reference1.md)
 * [other.sh](other.sh)
